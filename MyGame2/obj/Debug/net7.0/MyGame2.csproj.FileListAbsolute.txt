@@ -1,0 +1,14 @@
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\MyGame2.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\MyGame2.AssemblyInfoInputs.cache
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\MyGame2.AssemblyInfo.cs
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\MyGame2.csproj.CoreCompileInputs.cache
+E:\CSharp\MyGame2\MyGame2\bin\Debug\net7.0\MyGame2.exe
+E:\CSharp\MyGame2\MyGame2\bin\Debug\net7.0\MyGame2.deps.json
+E:\CSharp\MyGame2\MyGame2\bin\Debug\net7.0\MyGame2.runtimeconfig.json
+E:\CSharp\MyGame2\MyGame2\bin\Debug\net7.0\MyGame2.dll
+E:\CSharp\MyGame2\MyGame2\bin\Debug\net7.0\MyGame2.pdb
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\MyGame2.dll
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\refint\MyGame2.dll
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\MyGame2.pdb
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\MyGame2.genruntimeconfig.cache
+E:\CSharp\MyGame2\MyGame2\obj\Debug\net7.0\ref\MyGame2.dll
